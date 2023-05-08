@@ -1,4 +1,8 @@
-### Hi there 👋
+### About me
+
+- I'm currently studying Outsystems Platform at ISCTE and I'm very excited about that.
+- I'm interested in keep studying English and other languages, like Spanish.
+- As a hobby, I like to play board games. I also like to do exercises to maintain a good health.
 
 <!--
 **RicardoMoreira74/RicardoMoreira74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
